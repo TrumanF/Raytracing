@@ -163,7 +163,7 @@ def distance(point1, point2):
 
 
 def main():
-    # print(equationOfCircle((1, 1), 5))
+
     run = True
     clock = pygame.time.Clock()
     light = Source(600, 600, 300)

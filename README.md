@@ -1,0 +1,1 @@
+A simple 2D raytracing engine built with Pygame and Python 3.9. Generates random obstacles to see effects of raytracing. Run the script and use your mouse to move the light source, scroll wheel will increase/decrease density of light rays, spacebar will disable light completely.
